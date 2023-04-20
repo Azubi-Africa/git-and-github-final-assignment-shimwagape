@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  data             |  data              | https://github.com/shimwagape/data.git       |
+| 2 |  planning             |  panning             | https://github.com/shimwagape/planning.git       |
+| 3 |  calculator             |  calculator             | https://github.com/shimwagape/calculator.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
